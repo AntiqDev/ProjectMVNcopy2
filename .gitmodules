@@ -1,0 +1,3 @@
+[submodule "MyExamle"]
+	path = MyExamle
+	url = https://github.com/antiqr/MyExamle
